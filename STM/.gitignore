@@ -1,0 +1,24 @@
+# STM32 Build Artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Object directories
+obj/
+
+# Generated files
+CMDS.TXT
+
+# IDE files (if any)
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.gdbinit
+.vscode
